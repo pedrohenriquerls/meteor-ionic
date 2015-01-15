@@ -1,4 +1,5 @@
 Package.describe({
+  name: 'pedrohenriquerls:meteor-ionic-fork',
   summary: "Ionic framework packaged for Meteor.",
   version: "0.1.1",
   git: "https://github.com/pedrohenriquerls/meteor-ionic"

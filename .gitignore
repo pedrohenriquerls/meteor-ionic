@@ -2,3 +2,4 @@
 *.komodoproject
 .meteor/local/bower
 .idea
+.DS_Store
